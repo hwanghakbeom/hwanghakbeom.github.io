@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Andy's InTer View]]></title>
   <link href="http://hwanghakbeom.github.io/atom.xml" rel="self"/>
   <link href="http://hwanghakbeom.github.io/"/>
-  <updated>2015-01-03T14:50:14+09:00</updated>
+  <updated>2015-01-03T15:15:37+09:00</updated>
   <id>http://hwanghakbeom.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Andy Hwang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test1]]></title>
+    <link href="http://hwanghakbeom.github.io/blog/2015/01/03/test1/"/>
+    <updated>2015-01-03T15:15:16+09:00</updated>
+    <id>http://hwanghakbeom.github.io/blog/2015/01/03/test1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[사이냅소프트 인터뷰]]></title>

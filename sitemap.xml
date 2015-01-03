@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://hwanghakbeom.github.io/blog/2015/01/03/test1/</loc>
+    <lastmod>2015-01-03T15:15:16+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://hwanghakbeom.github.io/blog/2015/01/03/sainaebsopeuteu-inteobyu/</loc>
     <lastmod>2015-01-03T14:22:23+09:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/blog/archives/</loc>
-    <lastmod>2015-01-03T14:50:14+09:00</lastmod>
+    <lastmod>2015-01-03T15:15:37+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/</loc>
-    <lastmod>2015-01-03T14:50:14+09:00</lastmod>
+    <lastmod>2015-01-03T15:15:37+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
