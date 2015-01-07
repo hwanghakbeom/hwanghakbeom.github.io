@@ -74,8 +74,8 @@ categories:
 회사 홈페이지와 블로그를 통해 회사에서 제공되는 서비스와 문화를 자신의 능력과 성향에 비교하면 상당히 좋을듯 했다.
 
 
-블로그에서 확인할수 있듯이 회사에서는 매일 조식을 제공하고 있었고, Fearless Change 에서 나오는 Do Food 패턴을 정말 잘 활용하고 있었다. 
-http://synap.tistory.com/384 ('그 남자의 아침밥')
+블로그에서 확인할수 있듯이 회사에서는 매일 조식을 제공하고 있었고, [Fearless Change](http://www.fearlesschangepatterns.com/) 에서 나오는 Do Food 패턴을 정말 잘 활용하고 있었다. 
+['그 남자의 아침밥'](http://synap.tistory.com/384)
 
 회사의 특이성?
 — 야근 금지라는 타이틀로 회자가 된적이 있다.
