@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://hwanghakbeom.github.io/blog/2015/01/27/rogaenol-gimgisa/</loc>
-    <lastmod>2015-01-27T14:36:09+09:00</lastmod>
+    <lastmod>2015-01-27T00:00:00+09:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -12,25 +12,25 @@
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/blog/archives/</loc>
-    <lastmod>2015-01-27T16:41:53+09:00</lastmod>
+    <lastmod>2015-01-27T17:38:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/</loc>
-    <lastmod>2015-01-27T16:41:53+09:00</lastmod>
+    <lastmod>2015-01-27T17:38:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/about/</loc>
-    <lastmod>2015-01-27T16:41:53+09:00</lastmod>
+    <lastmod>2015-01-27T17:38:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://hwanghakbeom.github.io/license/</loc>
-    <lastmod>2015-01-27T16:41:53+09:00</lastmod>
+    <lastmod>2015-01-27T17:38:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
