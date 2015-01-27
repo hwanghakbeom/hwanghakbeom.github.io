@@ -5,3 +5,5 @@ date: 2015-01-27 14:36:09 +0900
 comments: true
 categories: 
 ---
+
+{% img /images/blogs/IMG_0175.JPG" %}
